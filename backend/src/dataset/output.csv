@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,notify,payment,Time-sensitive content with high user relevance. Confidence 0.73.,0.73,none
+msg_091,digest,event,Useful message that can be shown later. Confidence 0.66.,0.66,none
+msg_090,notify,personal,Time-sensitive content with high user relevance. Confidence 0.61.,0.61,none
+msg_048,digest,payment,Useful message that can be shown later. Confidence 0.62.,0.62,message_0151
+msg_040,mute,spam,Risky or repetitive content with weak user value. Confidence 0.64.,0.64,message_0136
+msg_075,notify,event,Trusted and relevant message that deserves immediate attention. Confidence 0.73.,0.73,none
+msg_005,notify,event,Time-sensitive content with high user relevance. Confidence 0.77.,0.77,message_0114
+msg_104,digest,personal,Useful message that can be shown later. Confidence 0.54.,0.54,none
+msg_069,mute,forward,Low-value message for this user. Confidence 0.54.,0.54,"message_0193;message_0177;message_0042"
+msg_107,mute,scam,Risky or repetitive content with weak user value. Confidence 0.61.,0.61,none
+msg_070,mute,scam,Risky or repetitive content with weak user value. Confidence 0.59.,0.59,"message_0213;message_0195;message_0045"
+msg_003,notify,payment,Time-sensitive content with high user relevance. Confidence 0.77.,0.77,none
+msg_099,notify,event,Trusted and relevant message that deserves immediate attention. Confidence 0.63.,0.63,none
+msg_008,notify,business_update,Time-sensitive content with high user relevance. Confidence 0.63.,0.63,none
+msg_092,notify,payment,Trusted and relevant message that deserves immediate attention. Confidence 0.63.,0.63,none
+msg_060,notify,event,Time-sensitive content with high user relevance. Confidence 0.76.,0.76,"message_0284;message_0176;message_0404"
+msg_004,notify,urgent,Trusted and relevant message that deserves immediate attention. Confidence 0.72.,0.72,none
+msg_030,digest,promotion,Useful message that can be shown later. Confidence 0.57.,0.57,"message_0115;message_0050;message_0335"
+msg_045,digest,personal,Useful message that can be shown later. Confidence 0.74.,0.74,"message_0146;message_0145"
+msg_052,mute,scam,Risky or repetitive content with weak user value. Confidence 0.73.,0.73,none
+msg_009,digest,personal,Useful message that can be shown later. Confidence 0.57.,0.57,"message_0074;message_0073"
+msg_071,notify,personal,Trusted and relevant message that deserves immediate attention. Confidence 0.62.,0.62,message_0197
+msg_016,digest,urgent,Useful message that can be shown later. Confidence 0.49.,0.49,"message_0024;message_0087;message_0183"
+msg_065,mute,spam,Risky or repetitive content with weak user value. Confidence 0.70.,0.70,none
+msg_038,mute,spam,Risky or repetitive content with weak user value. Confidence 0.65.,0.65,"message_0131;message_0132"
+msg_086,notify,event,Trusted and relevant message that deserves immediate attention. Confidence 0.74.,0.74,none
+msg_014,mute,spam,Risky or repetitive content with weak user value. Confidence 0.52.,0.52,none
+msg_094,notify,promotion,Time-sensitive content with high user relevance. Confidence 0.68.,0.68,none
+msg_029,mute,spam,Risky or repetitive content with weak user value. Confidence 0.71.,0.71,"message_0113;message_0401;message_0332"
+msg_105,mute,spam,Risky or repetitive content with weak user value. Confidence 0.61.,0.61,none
+msg_002,notify,payment,Time-sensitive content with high user relevance. Confidence 0.75.,0.75,"message_0003;message_0169;message_0059"
+msg_010,digest,business_update,Useful message that can be shown later. Confidence 0.63.,0.63,none
+msg_078,mute,scam,Risky or repetitive content with weak user value. Confidence 0.62.,0.62,message_0211
+msg_013,mute,promotion,Low-value message for this user. Confidence 0.66.,0.66,message_0081
+msg_018,mute,spam,Risky or repetitive content with weak user value. Confidence 0.72.,0.72,"message_0091;message_0092"
+msg_044,mute,scam,Risky or repetitive content with weak user value. Confidence 0.66.,0.66,message_0143
+msg_032,digest,event,Useful message that can be shown later. Confidence 0.67.,0.67,"message_0119;message_0285;message_0120"
+msg_106,digest,event,Useful message that can be shown later. Confidence 0.69.,0.69,none
+msg_006,digest,payment,Useful message that can be shown later. Confidence 0.69.,0.69,"message_0067;message_0097;message_0029"
+msg_109,notify,payment,Time-sensitive content with high user relevance. Confidence 0.72.,0.72,message_0151
+msg_108,digest,event,Useful message that can be shown later. Confidence 0.63.,0.63,none
+msg_019,mute,scam,Risky or repetitive content with weak user value. Confidence 0.67.,0.67,none
+msg_088,digest,personal,Useful message that can be shown later. Confidence 0.52.,0.52,none
+msg_056,digest,event,Useful message that can be shown later. Confidence 0.64.,0.64,"message_0168;message_0167"
+msg_027,mute,spam,Risky or repetitive content with weak user value. Confidence 0.57.,0.57,none
+msg_050,notify,urgent,Trusted and relevant message that deserves immediate attention. Confidence 0.69.,0.69,none
+msg_083,notify,business_update,Time-sensitive content with high user relevance. Confidence 0.72.,0.72,message_0219
+msg_063,notify,payment,Time-sensitive content with high user relevance. Confidence 0.75.,0.75,"message_0181;message_0182"
+msg_033,notify,urgent,Time-sensitive content with high user relevance. Confidence 0.76.,0.76,"message_0122;message_0121"
+msg_061,mute,spam,Risky or repetitive content with weak user value. Confidence 0.56.,0.56,"message_0193;message_0177;message_0042"
+msg_020,notify,event,Time-sensitive content with high user relevance. Confidence 0.69.,0.69,message_0096
+msg_017,notify,payment,Time-sensitive content with high user relevance. Confidence 0.69.,0.69,"message_0089;message_0090"
+msg_058,mute,spam,Risky or repetitive content with weak user value. Confidence 0.55.,0.55,"message_0039;message_0040;message_0241"
+msg_026,mute,scam,Risky or repetitive content with weak user value. Confidence 0.58.,0.58,none
+msg_047,notify,event,Time-sensitive content with high user relevance. Confidence 0.72.,0.72,"message_0149;message_0150"
+msg_046,mute,scam,Risky or repetitive content with weak user value. Confidence 0.54.,0.54,"message_0148;message_0147"
+msg_042,digest,event,Useful message that can be shown later. Confidence 0.71.,0.71,"message_0140;message_0139"
+msg_079,mute,scam,Risky or repetitive content with weak user value. Confidence 0.59.,0.59,"message_0045;message_0023;message_0213"
+msg_098,digest,event,Useful message that can be shown later. Confidence 0.63.,0.63,none
+msg_037,digest,event,Useful message that can be shown later. Confidence 0.65.,0.65,message_0001
+msg_007,digest,event,Useful message that can be shown later. Confidence 0.70.,0.70,"message_0070;message_0069"
+msg_085,mute,scam,Risky or repetitive content with weak user value. Confidence 0.72.,0.72,none
+msg_001,digest,event,Useful message that can be shown later. Confidence 0.71.,0.71,"message_0240;message_0057;message_0058"
+msg_021,digest,payment,Useful message that can be shown later. Confidence 0.68.,0.68,"message_0068;message_0098;message_0029"
+msg_028,mute,spam,Risky or repetitive content with weak user value. Confidence 0.60.,0.60,none
+msg_012,mute,spam,Risky or repetitive content with weak user value. Confidence 0.55.,0.55,"message_0247;message_0079;message_0080"
+msg_064,mute,scam,Risky or repetitive content with weak user value. Confidence 0.58.,0.58,"message_0087;message_0183;message_0201"
+msg_103,digest,personal,Useful message that can be shown later. Confidence 0.63.,0.63,none
+msg_031,digest,event,Useful message that can be shown later. Confidence 0.67.,0.67,"message_0249;message_0117;message_0118"
+msg_057,notify,event,Trusted and relevant message that deserves immediate attention. Confidence 0.75.,0.75,"message_0169;message_0059;message_0003"
+msg_087,digest,personal,Useful message that can be shown later. Confidence 0.51.,0.51,message_0358
+msg_067,digest,payment,Useful message that can be shown later. Confidence 0.67.,0.67,"message_0068;message_0098;message_0029"
+msg_039,digest,payment,Useful message that can be shown later. Confidence 0.72.,0.72,"message_0403;message_0051;message_0037"
+msg_082,notify,urgent,Time-sensitive content with high user relevance. Confidence 0.70.,0.70,"message_0218;message_0397"
+msg_066,notify,promotion,Time-sensitive content with high user relevance. Confidence 0.64.,0.64,none
+msg_049,notify,event,Time-sensitive content with high user relevance. Confidence 0.73.,0.73,none
+msg_015,mute,scam,Risky or repetitive content with weak user value. Confidence 0.59.,0.59,"message_0085;message_0199"
+msg_051,mute,spam,Risky or repetitive content with weak user value. Confidence 0.71.,0.71,none
+msg_097,digest,event,Useful message that can be shown later. Confidence 0.65.,0.65,none
+msg_089,digest,event,Useful message that can be shown later. Confidence 0.68.,0.68,none
+msg_053,mute,spam,Risky or repetitive content with weak user value. Confidence 0.58.,0.58,message_0161
+msg_059,notify,event,Time-sensitive content with high user relevance. Confidence 0.76.,0.76,"message_0174;message_0214;message_0196"
+msg_024,mute,spam,Risky or repetitive content with weak user value. Confidence 0.71.,0.71,none
+msg_072,mute,scam,Risky or repetitive content with weak user value. Confidence 0.59.,0.59,"message_0085;message_0199"
+msg_036,digest,payment,Useful message that can be shown later. Confidence 0.54.,0.54,none
+msg_076,mute,scam,Risky or repetitive content with weak user value. Confidence 0.73.,0.73,none
+msg_055,notify,urgent,Time-sensitive content with high user relevance. Confidence 0.75.,0.75,"message_0166;message_0165"
+msg_102,digest,personal,Useful message that can be shown later. Confidence 0.53.,0.53,none
+msg_080,digest,event,Useful message that can be shown later. Confidence 0.65.,0.65,"message_0130;message_0190;message_0142"
+msg_093,mute,scam,Risky or repetitive content with weak user value. Confidence 0.72.,0.72,none
+msg_034,mute,spam,Risky or repetitive content with weak user value. Confidence 0.62.,0.62,"message_0013;message_0039;message_0241"
+msg_035,digest,payment,Useful message that can be shown later. Confidence 0.62.,0.62,none
+msg_101,notify,personal,Time-sensitive content with high user relevance. Confidence 0.54.,0.54,none
+msg_041,notify,event,Time-sensitive content with high user relevance. Confidence 0.75.,0.75,none
+msg_011,mute,spam,Risky or repetitive content with weak user value. Confidence 0.64.,0.64,"message_0077;message_0171;message_0123"
+msg_110,digest,event,Useful message that can be shown later. Confidence 0.56.,0.56,none
+msg_095,mute,scam,Risky or repetitive content with weak user value. Confidence 0.59.,0.59,none
+msg_074,mute,spam,Risky or repetitive content with weak user value. Confidence 0.65.,0.65,message_0203
+msg_073,mute,spam,Risky or repetitive content with weak user value. Confidence 0.67.,0.67,"message_0087;message_0183;message_0201"
+msg_054,notify,payment,Time-sensitive content with high user relevance. Confidence 0.64.,0.64,message_0163
+msg_068,digest,personal,Useful message that can be shown later. Confidence 0.63.,0.63,message_0191
+msg_100,digest,payment,Useful message that can be shown later. Confidence 0.63.,0.63,none
+msg_062,notify,event,Trusted and relevant message that deserves immediate attention. Confidence 0.56.,0.56,"message_0029;message_0044"
+msg_096,digest,personal,Useful message that can be shown later. Confidence 0.65.,0.65,none
+msg_043,mute,spam,Risky or repetitive content with weak user value. Confidence 0.59.,0.59,"message_0067;message_0097;message_0030"
+msg_077,notify,event,Trusted and relevant message that deserves immediate attention. Confidence 0.69.,0.69,"message_0255;message_0133;message_0209"
+msg_081,notify,event,Time-sensitive content with high user relevance. Confidence 0.73.,0.73,message_0217
+msg_025,notify,payment,Time-sensitive content with high user relevance. Confidence 0.76.,0.76,none
+msg_084,mute,scam,Risky or repetitive content with weak user value. Confidence 0.56.,0.56,none
+msg_022,notify,payment,Time-sensitive content with high user relevance. Confidence 0.72.,0.72,"message_0099;message_0100"
